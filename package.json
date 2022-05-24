@@ -1,0 +1,45 @@
+{
+	"name": "strangersthings",
+	"version": "1.0.0",
+	"description": "This is confirmation that things are working",
+	"main": "./source/index.js",
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"bootstrap": "^5.1.3",
+		"react": "^18.1.0",
+		"react-bootstrap": "^2.0.3",
+		"react-dom": "^17.0.2",
+		"react-icons": "^4.3.1",
+		"react-router": "^5.2.1",
+		"react-router-dom": "^5.3.0",
+		"react-scripts": "^4.0.3"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"webpack-cli": "^4.9.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/impr3ssionist/StrangersThings.git"
+	},
+	"bugs": {
+		"url": "https://github.com/impr3ssionist/StrangersThings/issues"
+	}
+}
